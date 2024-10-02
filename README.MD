@@ -3,6 +3,7 @@ DATA20047 Probabilistic Cognitive Modelling - Spring 2023
 Luigi Acerbi  
 Adam El Kholy
 
+## Calculating Response Distribution and Model Fitting
 ## References
 
 - \[**MKG22**\] Ma WJ, Körding K, and Goldreich D. "Bayesian Models of Perception and Action: An Introduction". MIT Press, 2022.
@@ -679,10 +680,6 @@ print(f"lambdas:\n mle = {lambdas_mle},\n std = {lambdas_std}")
     
 
 
-```python
-
-```
-
 
 ```python
 def gaussianobserverwithlapse_loglike(theta,s_vec,r_vec):
@@ -718,12 +715,5 @@ print(theta2_best[:3])
     [98.093 64.117  0.008]
     
 
-
-```python
-
-```
-
-
-```python
 
 ```
