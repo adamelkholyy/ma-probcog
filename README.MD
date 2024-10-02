@@ -1,31 +1,7 @@
 University of Helsinki, Master's Programme in Data Science  
 DATA20047 Probabilistic Cognitive Modelling - Spring 2023  
 Luigi Acerbi  
-
-# Problem Set 2: Response distribution and model fitting
-
-- This homework problem set focuses on **Week 3 and 4** of the course.
-- This problem set is worth **25 points** in total (out of 100 for the full course).
-- Check the submission deadline on Moodle! **Note that the deadline is at noon.**
-
-
-## Submission instructions
-
-Submission must be perfomed entirely on Moodle (**not** by email).
-1. When you have completed the exercises, save the notebook.
-2. Report your solutions and answers on Moodle ("*Problem set 2 answer return*").
-3. Submit two files on Moodle ("*Problem set 2 notebook return*"): 
-  - The notebook as `.ipynb`.
-  - The same notebook downloaded as `.pdf` (there are various ways to save the file as PDF, the most general is "File" > "Print Preview" and then print the page to PDF using your browser - remember to enter the Print Preview first).
-
-## IMPORTANT
-
-1. Do not share your code and answers with others. Contrary to the class exercises, which you can do with others, these problems are *not* group work and must be done individually.
-2. It is allowed to use snippets of code from the lecture exercises and model solutions.
-3. It is your responsibility to ensure that the notebook has fully finished running all the cells, all the plots view properly etc. before submitting it. However, the notebook should be runnable from scratch if needed ("Kernel > Restart & Run All").
-4. Submit your work by the deadline.
-5. Unless stated otherwise, please report your numerical answers in Moodle with full numerical precision (~14-15 digits), unless the answer is an integer.
-6. If you are confused, think there is a mistake or find things too difficult, please ask on Moodle.
+Adam El Kholy
 
 ## References
 
