@@ -116,7 +116,7 @@ compute_and_plot_metrics(r_col, s_hat_row, stimulus_pdf, 'posterior mean estimat
     
 
 
-![png](output_5_1.png)
+![png](images/output_5_1.png)
 
 
     Total RMSE (posterior mean estimate): 1.6048573201415854
@@ -158,7 +158,7 @@ compute_and_plot_metrics(r_col, s_hat_row, stimulus_pdf, 'posterior mean estimat
     
 
 
-![png](output_6_1.png)
+![png](images/output_6_1.png)
 
 
     Total RMSE (posterior mean estimate): 1.6446507755833726
@@ -197,7 +197,7 @@ compute_and_plot_metrics(r_col, s_hat_row, stimulus_pdf, 'posterior mean estimat
     
 
 
-![png](output_7_1.png)
+![png](images/output_7_1.png)
 
 
     Total RMSE (posterior mean estimate): 1.6842547306881315
@@ -341,7 +341,7 @@ plot_distribution(r_col.flatten(), response_dist , "r", "p(r|s=847)",
     
 
 
-![png](output_11_1.png)
+![png](images/output_11_1.png)
 
 
 # Question 2.3 (6 pts)
@@ -485,7 +485,7 @@ plt.show()
     
 
 
-![png](output_14_1.png)
+![png](images/output_14_1.png)
 
 
 
